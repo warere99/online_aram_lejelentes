@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "651417660552",
+    "project_id": "mobil-alkfejl-6063d",
+    "storage_bucket": "mobil-alkfejl-6063d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651417660552:android:0f455a0bcd1a048c8e433d",
+        "android_client_info": {
+          "package_name": "com.wr.onlineramlejelentes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651417660552-lhlhj6sm8h2ks0i509293uapm1oji6c8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJfxCl4ZokhrXnqU4b2hmjULB9OTErXKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651417660552-lhlhj6sm8h2ks0i509293uapm1oji6c8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_place_of_usage"
+        android:icon="@drawable/ic_map"
+        android:title="Felhasználási helyek"
+        app:showAsAction="never"
+        app:actionViewClass="android.widget.Button"/>
+    <item
+        android:id="@+id/menu_add_place_of_usage"
+        android:icon="@drawable/ic_map"
+        android:title="Felhasználási hely hozzáadás"
+        app:showAsAction="never"
+        app:actionViewClass="android.widget.Button"/>
+    <item
+        android:id="@+id/menu_profile"
+        android:icon="@drawable/ic_profilesettings"
+        android:title="Profil"
+        app:showAsAction="never"
+        app:actionViewClass="android.widget.Button"/>
+    <item
+        android:id="@+id/menu_logout"
+        android:icon="@drawable/ic_logout"
+        android:title="@string/text_menu_logout"
+        app:showAsAction="never"
+        app:actionViewClass="android.widget.Button"/>
+</menu>

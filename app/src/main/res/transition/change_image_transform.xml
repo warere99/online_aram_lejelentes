@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<change_image_transform xmlns:android="http://schemas.android.com/apk/res/android">
+    <transitionSet xmlns:android="http://schemas.android.com/apk/res/android">
+        <changeImageTransform/>
+    </transitionSet>
+</change_image_transform>

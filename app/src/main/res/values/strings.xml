@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Online áram lejelentés</string>
+    <string name="text_login_button">Bejelentkezés</string>
+    <string name="text_registration_button">Regisztráció</string>
+    <string name="text_close_button">Regisztráció megszakítása</string>
+    <string name="text_menu_logout">Kijelentkezés</string>
+    <string name="button_delete">Törlés</string>
+    <string name="button_save">Mentés</string>
+
+    <array name="pou_identifiery">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </array>
+
+    <array name="pou_address">
+        <item>x</item>
+        <item>y</item>
+        <item>z</item>
+    </array>
+</resources>
